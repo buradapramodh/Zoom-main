@@ -1,6 +1,6 @@
 let IS_PROD = true;
 const server = IS_PROD ?
-    "https://apnacollegebackend.onrender.com" :
+    "https://zoom-main-lmtf-fylqeiyna-pramodhs-projects-4318dee3.vercel.app" :
 
     "http://localhost:8000"
 
