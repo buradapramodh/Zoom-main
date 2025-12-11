@@ -158,15 +158,7 @@ You can create a room or join one using a room ID.
 
 Project Deployment
 
-The project can be deployed on:
 
-Render
-
-Railway
-
-Heroku
-
-Vercel (with Node server support)
 
 Any VPS supporting Node.js
 
@@ -186,7 +178,7 @@ Admin controls (mute participants, remove users)
 
 License
 
-This project is licensed under the MIT License.
+
 
 Acknowledgements
 
