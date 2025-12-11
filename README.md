@@ -174,11 +174,7 @@ Meeting recording
 
 Authentication for secure meetings
 
-Admin controls (mute participants, remove users)
-
-License
-
-
+Admin controls (mute participants, remove user
 
 Acknowledgements
 
